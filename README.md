@@ -9,7 +9,6 @@ Projeto construído com o objetivo de praticar HTML e CSS.
 - HTML
 - CSS
 - Git e Github
-- VScode
 
 ## Visualização
 
